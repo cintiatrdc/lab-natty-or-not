@@ -20,22 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Podcast Era da IA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Esse é um podcast que trata dos avanços na era da IA
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Copilot
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O conteúdo foi criado a partir do estudo do bootcamp da DIO
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado foi um podcast com interesse global
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+O desafio nos propõe a pensar sobre a ética na utilização da IA, sobre o que é considerado ou não válido.
 ```
 
 ### Exemplos e Insigths
